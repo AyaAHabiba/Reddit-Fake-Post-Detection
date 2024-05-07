@@ -21,9 +21,10 @@ Text preprocessing: Tokenization, lemmatization, removing stop words, and punctu
 Vectorization: Converting text data into numerical representations using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or word embeddings.
 Model Selection
 For this binary classification task, participants may experiment with various machine learning algorithms and modeling techniques, including but not limited to:
-
+```
 Text classification models: Logistic Regression, RandomSearchCV.
 Ensemble methods: Bagging, Boosting, or Stacking.
+```
 Participants are encouraged to evaluate the performance of multiple models using appropriate evaluation metrics is area under the ROC curve (AUC-ROC).
 
 ## Model Evaluation
